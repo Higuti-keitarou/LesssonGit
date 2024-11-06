@@ -1,4 +1,5 @@
 hello, Git
 
 git commitに関して
+next.txtを作成しましたよー
 
