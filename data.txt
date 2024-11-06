@@ -1,4 +1,6 @@
 hello, Git
 
 git commitに関して
+新しいファイルを作成したよ
+
 
